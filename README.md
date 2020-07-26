@@ -1,4 +1,4 @@
-# TinaX Example - Hello World (C#  via ILRuntime and XAsset)
+# TinaX + ILRuntime + XAsset)
 
 - Unity : 2019.4.3f1
 
