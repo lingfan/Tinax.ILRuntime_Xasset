@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03142c330ced64e0ab46cddcd0484ab7, type: 3}
+  m_Name: Rules
+  m_EditorClassIdentifier: 
+  searchPatternAsset: '*.asset'
+  searchPatternController: '*.controller'
+  searchPatternDir: '*'
+  searchPatternMaterial: '*.mat'
+  searchPatternPng: '*.png'
+  searchPatternPrefab: '*.prefab'
+  searchPatternScene: '*.unity'
+  searchPatternText: '*.txt,*.bytes,*.json,*.csv,*.xml,*htm,*.html,*.yaml,*.fnt'
+  version: 7
+  scenesInBuild: []
+  rules:
+  - searchPath: Assets/App/Scenes
+    searchPattern: '*.unity'
+    nameBy: 1
+    assetBundleName: 
+  - searchPath: Assets/App/Data
+    searchPattern: '*.txt,*.bytes,*.json,*.csv,*.xml,*htm,*.html,*.yaml,*.fnt'
+    nameBy: 1
+    assetBundleName: 
+  - searchPath: Assets/App/UI
+    searchPattern: '*.prefab'
+    nameBy: 1
+    assetBundleName: 
+  - searchPath: Assets/App/Assemblies
+    searchPattern: '*.txt,*.bytes,*.json,*.csv,*.xml,*htm,*.html,*.yaml,*.fnt'
+    nameBy: 1
+    assetBundleName: 
+  - searchPath: Assets/App/Data
+    searchPattern: '*.txt,*.bytes,*.json,*.csv,*.xml,*htm,*.html,*.yaml,*.fnt'
+    nameBy: 1
+    assetBundleName: 
+  ruleAssets:
+  - bundle: 1ed099c7cacafebd7c388bb63ca14400.unity3d
+    path: Assets/App/Assemblies/Nekonya.Main.dll.bytes
+  - bundle: 9e0884979b43b3ae1fd79d1f94c4b5f6.unity3d
+    path: Assets/App/Assemblies/Nekonya.Main.pdb.bytes
+  - bundle: 7944a276c389f52bc0e60d02f54d7e54.unity3d
+    path: Assets/App/Data/text/hello.txt
+  - bundle: c316c782814578e2c0ebc98eddaadc82.unity3d
+    path: Assets/App/Scenes/App.Main.unity
+  - bundle: feba8704bc6a335cb95e15ee2daf6bf2.unity3d
+    path: Assets/App/Scenes/App.Startup.unity
+  - bundle: 6adfa7abc3a0969ef42d0bc3518a0588.unity3d
+    path: Assets/App/Scenes/Init.unity
+  - bundle: c8d47d667bc0abca427bde51943b68f3.unity3d
+    path: Assets/App/Scenes/Splash.unity
+  - bundle: c86071d509176d5e84ca97cc998d2d47.unity3d
+    path: Assets/App/UI/FetchData/FetchData.prefab
+  - bundle: 8c1960e421d1e3fbcff540dcefb0f723.unity3d
+    path: Assets/App/UI/counter/Counter.prefab
+  - bundle: af9e12d7d555107158b19301e4b8d4df.unity3d
+    path: Assets/App/UI/mainScreen/mainScreen.prefab
+  - bundle: 012449ac21e73dfe06e2b60fd86b9994.unity3d
+    path: Assets/App/UI/msgBox/msgBox.prefab
+  ruleBundles:
+  - name: c316c782814578e2c0ebc98eddaadc82.unity3d
+    assets:
+    - Assets/App/Scenes/App.Main.unity
+  - name: feba8704bc6a335cb95e15ee2daf6bf2.unity3d
+    assets:
+    - Assets/App/Scenes/App.Startup.unity
+  - name: 6adfa7abc3a0969ef42d0bc3518a0588.unity3d
+    assets:
+    - Assets/App/Scenes/Init.unity
+  - name: c8d47d667bc0abca427bde51943b68f3.unity3d
+    assets:
+    - Assets/App/Scenes/Splash.unity
+  - name: 7944a276c389f52bc0e60d02f54d7e54.unity3d
+    assets:
+    - Assets/App/Data/text/hello.txt
+  - name: 8c1960e421d1e3fbcff540dcefb0f723.unity3d
+    assets:
+    - Assets/App/UI/counter/Counter.prefab
+  - name: c86071d509176d5e84ca97cc998d2d47.unity3d
+    assets:
+    - Assets/App/UI/FetchData/FetchData.prefab
+  - name: af9e12d7d555107158b19301e4b8d4df.unity3d
+    assets:
+    - Assets/App/UI/mainScreen/mainScreen.prefab
+  - name: 012449ac21e73dfe06e2b60fd86b9994.unity3d
+    assets:
+    - Assets/App/UI/msgBox/msgBox.prefab
+  - name: 1ed099c7cacafebd7c388bb63ca14400.unity3d
+    assets:
+    - Assets/App/Assemblies/Nekonya.Main.dll.bytes
+  - name: 9e0884979b43b3ae1fd79d1f94c4b5f6.unity3d
+    assets:
+    - Assets/App/Assemblies/Nekonya.Main.pdb.bytes
+  - name: 49b7469c5ebd6cc83494274c77e8a5c1.unity3d
+    assets:
+    - Assets/Arts/UI/Images/common/btn_a_emerald.png

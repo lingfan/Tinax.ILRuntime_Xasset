@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7882bd278763c45f49cef7deeae496e5, type: 3}
+  m_Name: Manifest
+  m_EditorClassIdentifier: 
+  activeVariants: []
+  dirs:
+  - Assets/App/Assemblies
+  - Assets/App/Data/text
+  - Assets/App/Scenes
+  - Assets/App/UI/FetchData
+  - Assets/App/UI/counter
+  - Assets/App/UI/mainScreen
+  - Assets/App/UI/msgBox
+  assets:
+  - name: Nekonya.Main.dll.bytes
+    bundle: 1
+    dir: 0
+  - name: Nekonya.Main.pdb.bytes
+    bundle: 6
+    dir: 0
+  - name: hello.txt
+    bundle: 4
+    dir: 1
+  - name: App.Main.unity
+    bundle: 8
+    dir: 2
+  - name: App.Startup.unity
+    bundle: 11
+    dir: 2
+  - name: Init.unity
+    bundle: 3
+    dir: 2
+  - name: Splash.unity
+    bundle: 10
+    dir: 2
+  - name: FetchData.prefab
+    bundle: 9
+    dir: 3
+  - name: Counter.prefab
+    bundle: 5
+    dir: 4
+  - name: mainScreen.prefab
+    bundle: 7
+    dir: 5
+  - name: msgBox.prefab
+    bundle: 0
+    dir: 6
+  bundles:
+  - name: 012449ac21e73dfe06e2b60fd86b9994.unity3d
+    id: 0
+    deps: 
+    len: 13307
+    hash: 07ad22a34c0550bde52a06a94fecde9a
+  - name: 1ed099c7cacafebd7c388bb63ca14400.unity3d
+    id: 1
+    deps: 
+    len: 11815
+    hash: bd30ed5cd165c5c444f3dea33a6ddb8c
+  - name: 49b7469c5ebd6cc83494274c77e8a5c1.unity3d
+    id: 2
+    deps: 
+    len: 4792
+    hash: ee9e51a0b21f7c15accb2927d34230d6
+  - name: 6adfa7abc3a0969ef42d0bc3518a0588.unity3d
+    id: 3
+    deps: 
+    len: 1536130
+    hash: 2d59e76f18829fdb15bb06f969b1ece5
+  - name: 7944a276c389f52bc0e60d02f54d7e54.unity3d
+    id: 4
+    deps: 
+    len: 1236
+    hash: 4f0ba792e30af722f325c8df9931d4d0
+  - name: 8c1960e421d1e3fbcff540dcefb0f723.unity3d
+    id: 5
+    deps: 02000000
+    len: 8851
+    hash: 1e54750880835ed5d88281c5af777ff3
+  - name: 9e0884979b43b3ae1fd79d1f94c4b5f6.unity3d
+    id: 6
+    deps: 
+    len: 4923
+    hash: ba42a692fe4322f15b2ae0a1fe25f9e5
+  - name: af9e12d7d555107158b19301e4b8d4df.unity3d
+    id: 7
+    deps: 02000000
+    len: 11968
+    hash: 8bc176e5778448af1682cac70be4c5e9
+  - name: c316c782814578e2c0ebc98eddaadc82.unity3d
+    id: 8
+    deps: 
+    len: 6845
+    hash: 35c2e471a76bcef347f3973286477228
+  - name: c86071d509176d5e84ca97cc998d2d47.unity3d
+    id: 9
+    deps: 02000000
+    len: 7797
+    hash: 9db1188ea0d2e553624713c6499791ae
+  - name: c8d47d667bc0abca427bde51943b68f3.unity3d
+    id: 10
+    deps: 
+    len: 439320
+    hash: 93738502baa141098ff52fbdb114d7ce
+  - name: feba8704bc6a335cb95e15ee2daf6bf2.unity3d
+    id: 11
+    deps: 
+    len: 6403
+    hash: f48305a27f541e4966166e3e923ec30a
