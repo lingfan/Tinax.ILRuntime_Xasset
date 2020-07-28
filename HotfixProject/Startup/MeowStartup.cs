@@ -14,7 +14,7 @@ namespace Nekonya
     {
         public static void Start()
         {
-            Debug.Log("Meow~~~");
+            Debug.Log("vv~~~");
             //open ui
             var core = XCore.GetMainInstance();
             var uikit = core.Services.Get<IUIKit>();

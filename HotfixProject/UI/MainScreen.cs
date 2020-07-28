@@ -19,7 +19,7 @@ namespace Nekonya.UI
             {
                 await UIKit.OpenUIAsync("msgBox", new MsgBox(),
                     new OpenUIParam() { UseMask = true, CloseByMask = true }, 
-                    "hello,world! ddddddddddd", "hello");
+                    "hello,world! ddddd44444dddd", "hello");
             });
 
             btn_counter.onClick.AddListener(async () =>
