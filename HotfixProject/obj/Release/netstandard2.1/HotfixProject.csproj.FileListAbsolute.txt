@@ -1,9 +1,0 @@
-C:\Users\vv\Downloads\TinaX-TinaX6.6\TinaX-TinaX6.6\Examples\E01_HelloWorld_ILRuntime\HotfixProject\bin\Release\netstandard2.1\Nekonya.Main.deps.json
-C:\Users\vv\Downloads\TinaX-TinaX6.6\TinaX-TinaX6.6\Examples\E01_HelloWorld_ILRuntime\HotfixProject\bin\Release\netstandard2.1\Nekonya.Main.dll
-C:\Users\vv\Downloads\TinaX-TinaX6.6\TinaX-TinaX6.6\Examples\E01_HelloWorld_ILRuntime\HotfixProject\bin\Release\netstandard2.1\Nekonya.Main.pdb
-C:\Users\vv\Downloads\TinaX-TinaX6.6\TinaX-TinaX6.6\Examples\E01_HelloWorld_ILRuntime\HotfixProject\obj\Release\netstandard2.1\HotfixProject.csprojAssemblyReference.cache
-C:\Users\vv\Downloads\TinaX-TinaX6.6\TinaX-TinaX6.6\Examples\E01_HelloWorld_ILRuntime\HotfixProject\obj\Release\netstandard2.1\HotfixProject.csproj.CoreCompileInputs.cache
-C:\Users\vv\Downloads\TinaX-TinaX6.6\TinaX-TinaX6.6\Examples\E01_HelloWorld_ILRuntime\HotfixProject\obj\Release\netstandard2.1\HotfixProject.AssemblyInfoInputs.cache
-C:\Users\vv\Downloads\TinaX-TinaX6.6\TinaX-TinaX6.6\Examples\E01_HelloWorld_ILRuntime\HotfixProject\obj\Release\netstandard2.1\HotfixProject.AssemblyInfo.cs
-C:\Users\vv\Downloads\TinaX-TinaX6.6\TinaX-TinaX6.6\Examples\E01_HelloWorld_ILRuntime\HotfixProject\obj\Release\netstandard2.1\Nekonya.Main.dll
-C:\Users\vv\Downloads\TinaX-TinaX6.6\TinaX-TinaX6.6\Examples\E01_HelloWorld_ILRuntime\HotfixProject\obj\Release\netstandard2.1\Nekonya.Main.pdb
